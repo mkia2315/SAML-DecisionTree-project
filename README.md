@@ -13,3 +13,8 @@ The model automatically flags a transaction as  Laundered  if it hits these thre
 It is in a specific currency group (like Euros, Dirhams, or Rupees).
 The amount is  under $6,114.98  (a classic ML technique of "structuring" used to avoid bank alerts).
 It uses highly liquid channels like  Cash Deposits, Cash Withdrawals, or ACH transfers .
+
+---
+
+Acknowledgments
+Special thanks to the creators and providers of the SAML-D (Suspicious Anti-Money Laundering Dataset) for making this comprehensive transaction data available to the data science community. Their work enables vital hands-on research into automating financial crime compliance and risk-mitigation modeling.
